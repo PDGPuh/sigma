@@ -1,0 +1,1 @@
+{\n  "name": "ev-rental-system",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "react": "^18.0.0",\n    "react-dom": "^18.0.0",\n    "react-router-dom": "^6.0.0",\n    "@mui/material": "^5.0.0",\n    "@emotion/react": "^11.0.0",\n    "@emotion/styled": "^11.0.0"\n  }\n}
